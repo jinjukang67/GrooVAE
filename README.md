@@ -20,4 +20,4 @@ https://rustic-force-2ee.notion.site/MusicVAE-a299f45c426e4383a414eb51a2db5e32
   - https://colab.research.google.com/drive/1WKH7IpU62LN1JUtkR3m89HyRMrLO6FPB?usp=sharing
 
 ## 문제사항
-- groove/full-midionly 데이터로 학습한 케이스에서 처음에 재생할 떄 ValueError가 발생했지만 아직 해결하지 못하였습니다.
+- groove/full-midionly 데이터로 학습한 케이스에서 처음에 재생할 때 ValueError가 발생했지만 아직 해결하지 못하였습니다.
