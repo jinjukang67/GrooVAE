@@ -11,3 +11,8 @@ Groove MIDI Dataset을 이용하여 4마디에 해당하는 드럼 샘플을 뽑
 노션 페이지에 논문 리뷰, 참고자료를 정리해놓았습니다.
 
 https://rustic-force-2ee.notion.site/MusicVAE-a299f45c426e4383a414eb51a2db5e32
+
+## 드럼 샘플 audio play
+생성한 드럼 샘플의 연주가는 colab 페이지를 통해 들을실 수 있습니다!
+- groove/4bar-midionly 데이터로 학습한 케이스(https://colab.research.google.com/drive/1niRPF2B58azemJa5So27BPmCs5vynVDt?usp=sharing)
+- groove/full-midionly 데이터로 학습한 케이스(https://colab.research.google.com/drive/1WKH7IpU62LN1JUtkR3m89HyRMrLO6FPB?usp=sharing)
